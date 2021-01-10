@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11282a</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">#6ebb3b</color>
+
+    <color name="bgcolor">#11282a</color>
+    <color name="fgcolor">#6ebb3b</color>
+    <color name="dividercolor">#152f31</color>
+    <color name="redcolor">#FFDF0716</color>
+
+    <color name="lightgray">#f1f1f1</color>
+    <color name="peach">#ff6849</color>
+
+</resources>
